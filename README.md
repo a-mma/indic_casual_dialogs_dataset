@@ -1,0 +1,4 @@
+- dialog labels are based on [this dataset](https://github.com/alyssaong1/botframework-smalltalk/blob/master/smalltalkkb.tsv), which is inspired from Google dialogflow
+- this repository currently contains malayalam data only
+- thanks to the people who were kind enough to support this project
+- to contribute to this project in any language, clone this repo and add your data.
